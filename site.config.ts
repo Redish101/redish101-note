@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Redish101的随手记',
 
   // social usernames (optional)
-  github: 'transitive-bullshit',
+  github: 'Redish101',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
